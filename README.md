@@ -9,9 +9,7 @@
 
 - 🌱 I’m currently learning **Node js**
 
-- 👨‍💻 All of my projects are available at [https://hellojyoti01.github.io/portfolio_website/](https://hellojyoti01.github.io/portfolio_website/)
-
-- 💬 Ask me about **React.js , NextJs , HTML5 , CSS3 , Redux**
+- 💬 Ask me about **React.js , NextJs , HTML5 , CSS3 , Redux , MERN **
 
 - 📫 How to reach me **jyotiprakash.panigrahi055@gmail.com**
 
