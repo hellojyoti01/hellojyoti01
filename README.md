@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100% "  hight="100px" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100% ; hight: 100px "  />
 </div>
 
 ### <h1 align="center">Hi 👋, I'm Jyotiprakash Panigrahi</h1>
