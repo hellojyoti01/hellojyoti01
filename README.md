@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100% "  hight="100px" />
 </div>
 
 ### <h1 align="center">Hi 👋, I'm Jyotiprakash Panigrahi</h1>
@@ -107,13 +107,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hellojyoti01" alt="hellojyoti01" /></a> </p>
 
-- 🌱 I’m currently learning **Node js**
-
-- 💬 Ask me about **Front End Development , Backend Development, MERN **
-
-- 📫 How to reach me **jyotiprakash.panigrahi055@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zG-IHLqs93fEV5-rJOh8MP-z7Tdy_ozR/view?usp=sharing](https://drive.google.com/file/d/1zG-IHLqs93fEV5-rJOh8MP-z7Tdy_ozR/view?usp=sharing)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hellojyoti01&show_icons=true&locale=en&layout=compact" alt="hellojyoti01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hellojyoti01&" alt="hellojyoti01" /></p>
