@@ -1,4 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](./jyoti-header-image.png)](./jyoti-header-image.png)
+
 <h1 align="center">Hi 👋, I'm Jyotiprakash Panigrahi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="code" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" />
@@ -9,7 +10,7 @@
 
 - 🌱 I’m currently learning **Node js**
 
-- 💬 Ask me about **React.js , NextJs , HTML5 , CSS3 , Redux , MERN **
+- 💬 Ask me about **Front End Development , Backend Development, MERN **
 
 - 📫 How to reach me **jyotiprakash.panigrahi055@gmail.com**
 
@@ -29,4 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hellojyoti01&show_icons=true&locale=en" alt="hellojyoti01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hellojyoti01&" alt="hellojyoti01" /></p>
-
